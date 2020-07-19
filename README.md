@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Buildng ML models
 - 🌱 I’m currently learning new techniques in ML
 - 👯 I’m looking to collaborate on ML/AI
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web develoment or ML/Flask
 - 📫 How to reach me: vadalih@gmail.com / haresh@haresvadali.me
+- ⚡ Fun fact: check out [Haresh Vadali]https://hareshvadali.me 
+
+<!-- - 🤔 I’m looking for help with ... -->
 <!-- 😄 Pronouns: ... -->
-- ⚡ Fun fact: check out [!Haresh Vadali]https://hareshvadali.me 
