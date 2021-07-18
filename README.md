@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ML/AI
 - 💬 Ask me about Web develoment or ML/Flask
 - 📫 How to reach me: vadalih@gmail.com / haresh@haresvadali.me
-- ⚡ Fun fact: check out [Haresh Vadali]https://hareshvadali.me 
+- ⚡ Fun fact: check out [Haresh Vadali]https://portfolio.hareshvadali.me 
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- 😄 Pronouns: ... -->
