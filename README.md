@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- 😄 Pronouns: ... -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haresh121&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
